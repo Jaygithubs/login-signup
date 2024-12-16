@@ -1,0 +1,11 @@
+{
+  "name": "login-signup",
+  "version": "1.0.0",
+  "description": "I going to learn how to work login sign up in node js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
